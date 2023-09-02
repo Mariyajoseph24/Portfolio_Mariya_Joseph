@@ -16,8 +16,8 @@
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="">Netflix PowerBI Dashboard📺</a><br> | "Netflix Power BI Dashboard" delves deep into this ever-expanding universe of entertainment, providing valuable insights and illuminating patterns that can steer content strategies and viewer engagement.<br><p><ul><li>Tool used: Power BI</li></p>| 
-| <a href="">Superstore PowerBI Dashboard🏪</a><br> | "Superstore Power BI Dashboard" project is dedicated to unraveling the secrets hidden within the Superstore's data treasure trove, offering insights that will guide the organization towards targeted growth, enhanced profitability, and superior decision-making<ul><li>Tool used: Power BI</li></p> | 
+| <a href="https://github.com/Mariyajoseph24/Netflix_PowerBI_Dashboard">Netflix PowerBI Dashboard📺</a><br> | "Netflix Power BI Dashboard" delves deep into this ever-expanding universe of entertainment, providing valuable insights and illuminating patterns that can steer content strategies and viewer engagement.<br><p><ul><li>Tool used: Power BI</li></p>| 
+| <a href="https://github.com/Mariyajoseph24/Superstore_PowerBI_Dashboard">Superstore PowerBI Dashboard🏪</a><br> | "Superstore Power BI Dashboard" project is dedicated to unraveling the secrets hidden within the Superstore's data treasure trove, offering insights that will guide the organization towards targeted growth, enhanced profitability, and superior decision-making<ul><li>Tool used: Power BI</li></p> | 
 
 
 

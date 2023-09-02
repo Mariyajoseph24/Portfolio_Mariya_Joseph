@@ -19,5 +19,12 @@
 | <a href="https://github.com/Mariyajoseph24/Netflix_PowerBI_Dashboard">Netflix PowerBI Dashboard📺</a><br> | "Netflix Power BI Dashboard" delves deep into this ever-expanding universe of entertainment, providing valuable insights and illuminating patterns that can steer content strategies and viewer engagement.<br><p><ul><li>Tool used: Power BI</li></p>| 
 | <a href="https://github.com/Mariyajoseph24/Superstore_PowerBI_Dashboard">Superstore PowerBI Dashboard🏪</a><br> | "Superstore Power BI Dashboard" project is dedicated to unraveling the secrets hidden within the Superstore's data treasure trove, offering insights that will guide the organization towards targeted growth, enhanced profitability, and superior decision-making<ul><li>Tool used: Power BI</li></p> | 
 
+<h1><a name="tableau">Tableau</a></h1>
+
+| Project Link | Description |
+| ------------ | ------------| 
+| <a href="https://github.com/Mariyajoseph24/Amazon_Sales_India_Tableau_Dashboard">Amazon Sales India Tableau Dashboard💰</a><br> | "Amazon Sales India Tableau Dashboard" project dives deep into Amazon's sales data, offering detailed insights into SKU codes, designs, stock, categories, sizes, colors, and more. This dashboard is a valuable tool for unraveling the complexities of Amazon's operations in India and making data-driven decisions to maximize profitability.<br><p><ul><li>Tools Used🛠️ : Tableau</li></ul></p> | 
+
+
 
 

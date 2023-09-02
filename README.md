@@ -1,4 +1,12 @@
-# Portfolio_Mariya_Joseph
+# Portfolio- Mariya Joseph
+<p>elcome to my GitHub project repository, where I have meticulously curated a collection of my data-related endeavors. Within these digital pages, you'll find a comprehensive overview of my projects, showcasing my skills and experiences in the realm of data analysis </p>
+<h2>CONTENTS📝</h2>
+<ul>
+  <li>SQL</li>
+  <li>Python</li>
+  <li>Power BI</li>
+  <li>Tableau</li>
+</ul>
 
 <h1><a name="sql">SQL</a></h1>
 

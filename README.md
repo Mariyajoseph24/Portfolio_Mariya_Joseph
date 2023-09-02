@@ -2,10 +2,10 @@
 <p>elcome to my GitHub project repository, where I have meticulously curated a collection of my data-related endeavors. Within these digital pages, you'll find a comprehensive overview of my projects, showcasing my skills and experiences in the realm of data analysis </p>
 <h2>CONTENTS📝</h2>
 <ul>
-  <li>SQL</li>
-  <li>Python</li>
-  <li>Power BI</li>
-  <li>Tableau</li>
+  <li><a href="#sql">SQL</a></li>
+   <li><a href="#python">Python</a></li>
+   <li><a href="#powerbi">Power BI</a></li>
+   <li><a href="#tableau">Tableau</a></li>
 </ul>
 
 <h1><a name="sql">SQL</a></h1>
